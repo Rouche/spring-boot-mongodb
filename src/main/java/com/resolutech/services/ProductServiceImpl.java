@@ -1,9 +1,9 @@
-package guru.springframework.services;
+package com.resolutech.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.converters.ProductFormToProduct;
-import guru.springframework.domain.Product;
-import guru.springframework.repositories.ProductRepository;
+import com.resolutech.converters.ProductFormToProduct;
+import com.resolutech.domain.Product;
+import com.resolutech.repositories.ProductRepository;
+import com.resolutech.commands.ProductForm;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

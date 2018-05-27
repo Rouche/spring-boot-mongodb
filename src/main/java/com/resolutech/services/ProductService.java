@@ -1,7 +1,7 @@
-package guru.springframework.services;
+package com.resolutech.services;
 
-import guru.springframework.commands.ProductForm;
-import guru.springframework.domain.Product;
+import com.resolutech.commands.ProductForm;
+import com.resolutech.domain.Product;
 
 import java.util.List;
 

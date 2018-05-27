@@ -1,6 +1,6 @@
-package guru.springframework.repositories;
+package com.resolutech.repositories;
 
-import guru.springframework.domain.Product;
+import com.resolutech.domain.Product;
 import org.springframework.data.repository.CrudRepository;
 
 /**
